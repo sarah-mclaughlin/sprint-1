@@ -1,4 +1,3 @@
-code . 
 Question: How would you decsribe the command line to a lay person?
 Answer: The command line allows you to instruct your computer through words to navigate through, copy and paste, move, create and remove, files and folders stored on your computer.
 Question: List 10 terminal commands and describe in plain english what they do.
